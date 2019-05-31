@@ -7,7 +7,7 @@ import co.agenciaviajes.negocio.Pago;
 
 /**
  * 29 de Mayo / 2019
- * @author Alexander Inagan
+ * @autho Camilo muñoz
  */
 public class ClienteMain {
 
